@@ -14,8 +14,8 @@ import java.util.List;
 public class SupplierManagedBean {
     private SupplierDAO dao;
 
-    List<Supplier> suppliers;
-    Supplier current;
+    public List<Supplier> suppliers;
+    public Supplier current;
 
     public SupplierManagedBean() {
         this.dao = new SupplierDAOImpl();

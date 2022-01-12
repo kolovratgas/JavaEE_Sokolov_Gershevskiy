@@ -14,8 +14,8 @@ import java.util.List;
 public class ProductManagedBean {
     private ProductDAO dao;
 
-    List<Product> products;
-    Product current;
+    public List<Product> products;
+    public Product current;
 
     public ProductManagedBean() {
         this.dao = new ProductDAOImpl();

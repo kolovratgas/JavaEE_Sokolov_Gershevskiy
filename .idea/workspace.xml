@@ -9,7 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="674eae4b-a7e2-4410-a2a0-6e36493aa701" name="Changes" comment="" />
+    <list default="true" id="674eae4b-a7e2-4410-a2a0-6e36493aa701" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/managedBeans/ProductManagedBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/managedBeans/ProductManagedBean.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,7 +181,7 @@
       <workItem from="1641563382707" duration="21000" />
       <workItem from="1641564377116" duration="647000" />
       <workItem from="1641632155718" duration="432000" />
-      <workItem from="1641994771641" duration="1138000" />
+      <workItem from="1641994771641" duration="1438000" />
     </task>
     <servers />
   </component>
